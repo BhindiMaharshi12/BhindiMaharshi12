@@ -1,236 +1,286 @@
-
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Maharshi&fontSize=72&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Clean%20Architecture&descAlignY=58&descSize=17&fontColor=00f0ff&animation=fadeIn&stroke=00f0ff&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,40:1a0033,80:2d0057,100:1a0033&height=220&section=header&text=Maharshi&fontSize=75&fontColor=e040fb&fontAlignY=40&desc=Full-Stack+Developer+%7C+UI+Craftsman+%7C+AI+Explorer&descSize=17&descAlignY=62&descFontColor=b39ddb&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems+Today...;Exploring+Intelligent+Solutions+Tomorrow...;Clean+Architecture+%7C+Real-World+Impact;Code+%7C+Create+%7C+Conquer+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&duration=3500&pause=1000&color=E040FB&center=true&vCenter=true&width=750&lines=Building+scalable+systems+%7C+Crafting+bold+UIs;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Dark+themes.+Clean+code.+Real+impact.)](https://github.com/BhindiMaharshi12)
+
+<br/>
+
+![](https://img.shields.io/badge/Open%20to%20Collaborate-e040fb?style=for-the-badge&labelColor=1a0033)
+&nbsp;
+![](https://img.shields.io/badge/Web%20%7C%20AI%20%7C%20UI-7c4dff?style=for-the-badge&labelColor=0d001a)
+&nbsp;
+![](https://img.shields.io/badge/Rajkot%2C%20India-aa00ff?style=for-the-badge&labelColor=1a0033)
 
 </div>
 
 <br/>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<div align="center">
-
-## `> WHO AM I ?`
-
-</div>
-
-```typescript
-const Maharshi = {
-  role        : "Full-Stack Developer 🚀",
-  university  : "Atmiya University, Rajkot — B.Tech IT (Sem 4)",
-  location    : "Rajkot, Gujarat, India 📍",
-  focus       : ["Web Applications", "AI-Driven Systems", "Clean Architecture"],
-  stack       : ["JavaScript", "Java", "JSP/Servlets", "PHP", "Python", "MySQL"],
-  currentlyOn : ["LuxDrive Motors — Luxury Car Platform", "AI/ML Fundamentals"],
-  philosophy  : "Build systems that scale. Create solutions that matter.",
-  funFact     : "I design UIs in my sleep. Dark themes only. 🌑"
-};
-```
+## 🧬 &nbsp; ABOUT ME
 
 <br/>
 
----
+I'm a **Full-Stack Developer** passionate about building scalable web applications and crafting visually immersive user interfaces. I focus on clean architecture, efficient performance, and turning ideas into real-world products.
+
+- 🎓 &nbsp; Pursuing **B.Tech in Information Technology** at Atmiya University, Rajkot
+- 🛠️ &nbsp; Strong foundation in **Java, JavaScript, Python & PHP**
+- 🌐 &nbsp; Building modern full-stack apps with **JSP/Servlets, jQuery & Bootstrap**
+- 🤖 &nbsp; Exploring **AI/ML integrations** for intelligent, data-driven systems
+- 🎨 &nbsp; Passionate about **dark UI, glassmorphism & neon-futuristic design**
+- 🏎️ &nbsp; Currently building **LuxDrive Motors** — a luxury car buy/sell platform
+- 📈 &nbsp; Always learning — because great developers never stop growing
+
+<br/>
 
 <div align="center">
 
-## `> TECH ARSENAL ⚡`
-
-</div>
-
-<div align="center">
-
-### ◈ Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00F0FF)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F0FF)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=BF80FF)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### ◈ Frontend
-
-![jQuery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=00F0FF)
-![AJAX](https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=BF80FF)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ◈ Backend
-
-![JSP](https://img.shields.io/badge/JSP%2FServlets-000000?style=for-the-badge&logo=openjdk&logoColor=00F0FF)
-![PHP Backend](https://img.shields.io/badge/PHP_Backend-000000?style=for-the-badge&logo=php&logoColor=BF80FF)
-![Python Backend](https://img.shields.io/badge/Python_Backend-000000?style=for-the-badge&logo=fastapi&logoColor=00F0FF)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-000000?style=for-the-badge&logo=apachetomcat&logoColor=F8DC75)
-
-### ◈ Database & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00F0FF)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![XAMPP](https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=xampp&logoColor=FB7A24)
-
-### ◈ Python Libraries
-
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=00F0FF)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+> *"I don't just write code — I craft experiences. Dark, bold, and built to last."*
 
 </div>
 
 <br/>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## ⚡ &nbsp; TECH STACK
+
+<br/>
 
 <div align="center">
 
-## `> FEATURED PROJECTS 🛠️`
+**— LANGUAGES —**
+
+<br/>
+
+![Java](https://img.shields.io/badge/Java-1a0033?style=for-the-badge&logo=openjdk&logoColor=e040fb)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d001a?style=for-the-badge&logo=javascript&logoColor=ffd600)
+![Python](https://img.shields.io/badge/Python-1a0033?style=for-the-badge&logo=python&logoColor=7c4dff)
+![PHP](https://img.shields.io/badge/PHP-0d001a?style=for-the-badge&logo=php&logoColor=aa00ff)
+![HTML5](https://img.shields.io/badge/HTML5-1a0033?style=for-the-badge&logo=html5&logoColor=e040fb)
+![CSS3](https://img.shields.io/badge/CSS3-0d001a?style=for-the-badge&logo=css3&logoColor=7c4dff)
+
+<br/><br/>
+
+**— FRONTEND —**
+
+<br/>
+
+![jQuery](https://img.shields.io/badge/jQuery-1a0033?style=for-the-badge&logo=jquery&logoColor=e040fb)
+![AJAX](https://img.shields.io/badge/AJAX-0d001a?style=for-the-badge&logo=javascript&logoColor=ffd600)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1a0033?style=for-the-badge&logo=bootstrap&logoColor=7c4dff)
+
+<br/><br/>
+
+**— BACKEND —**
+
+<br/>
+
+![JSP Servlets](https://img.shields.io/badge/JSP%20%2F%20Servlets-1a0033?style=for-the-badge&logo=openjdk&logoColor=e040fb)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-0d001a?style=for-the-badge&logo=apachetomcat&logoColor=ffd600)
+![Flask](https://img.shields.io/badge/Flask-1a0033?style=for-the-badge&logo=flask&logoColor=aa00ff)
+![PHP Backend](https://img.shields.io/badge/PHP%20Backend-0d001a?style=for-the-badge&logo=php&logoColor=7c4dff)
+
+<br/><br/>
+
+**— DATABASE & TOOLS —**
+
+<br/>
+
+![MySQL](https://img.shields.io/badge/MySQL-1a0033?style=for-the-badge&logo=mysql&logoColor=e040fb)
+![Git](https://img.shields.io/badge/Git-0d001a?style=for-the-badge&logo=git&logoColor=ffd600)
+![GitHub](https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=aa00ff)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d001a?style=for-the-badge&logo=visualstudiocode&logoColor=7c4dff)
+![XAMPP](https://img.shields.io/badge/XAMPP-1a0033?style=for-the-badge&logo=xampp&logoColor=e040fb)
+
+<br/><br/>
+
+**— AI / ML —**
+
+<br/>
+
+![NumPy](https://img.shields.io/badge/NumPy-1a0033?style=for-the-badge&logo=numpy&logoColor=e040fb)
+![Pandas](https://img.shields.io/badge/Pandas-0d001a?style=for-the-badge&logo=pandas&logoColor=7c4dff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1a0033?style=for-the-badge&logo=python&logoColor=aa00ff)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d001a?style=for-the-badge&logo=scikit-learn&logoColor=ffd600)
 
 </div>
 
----
+<br/>
 
-### ⚡ [LuxDrive Motors](https://github.com/BhindiMaharshi12) — *Luxury Car Buy/Sell Platform*
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-> *A premium, dark-themed luxury car marketplace inspired by Big Boy Toyz.*
+## 🚀 &nbsp; FEATURED PROJECTS
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1572B6)
+<br/>
 
-| Feature | Detail |
-|---|---|
-| 🏎️ Car Showroom | Pre-seeded Lamborghini, Porsche, Mercedes-AMG listings |
-| 📸 Sell Form | Photo upload + localStorage-based data persistence |
-| 🗺️ Showroom Locations | Rajkot, Ahmedabad & Dubai location cards |
-| 🤖 Chatbot | Integrated live chatbot for user assistance |
-| 🌑 UI | Glassmorphism + neon dark theme |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
+### ⚡ LuxDrive Motors
+> *Luxury Car Buy/Sell Platform*
 
-### ♻️ [E-Waste Management System](https://github.com/BhindiMaharshi12) — *Smart E-Waste Platform*
+A premium dark-themed marketplace for luxury vehicles — inspired by Big Boy Toyz. Features glassmorphism UI, neon accents, and a full buying/selling experience.
 
-> *A smart platform to manage, track, and recycle electronic waste responsibly.*
+![JS](https://img.shields.io/badge/JavaScript-1a0033?style=flat-square&logo=javascript&logoColor=ffd600)
+![HTML](https://img.shields.io/badge/HTML5-1a0033?style=flat-square&logo=html5&logoColor=e040fb)
+![CSS](https://img.shields.io/badge/CSS3-1a0033?style=flat-square&logo=css3&logoColor=7c4dff)
 
-![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=BF80FF)
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00F0FF)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=00F0FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=flat-square&logo=bootstrap&logoColor=BF80FF)
+- 🏎️ Lamborghini, Porsche, Mercedes-AMG listings
+- 📸 Sell form with photo upload
+- 🗺️ Showrooms — Rajkot · Ahmedabad · Dubai
+- 🤖 Integrated AI chatbot for buyers
+- 💾 localStorage data persistence
 
-- 🔐 User registration & login with role-based access (User / Admin / Collector)
-- 📦 Submit e-waste pickup requests with item details & location
-- 🗺️ Track pickup status in real-time
-- 📊 Admin dashboard — manage requests, users & recycling stats
-- 🐍 Python scripts for data analysis & recycling impact reports
-- 📧 Email notifications for pickup confirmation & updates
-- 📈 Analytics — total waste collected, categories & environmental impact
+</td>
+<td width="50%" valign="top">
 
----
+### ♻️ E-Waste Management System
+> *Smart Electronic Waste Platform*
 
-### 🏨 [Hotel Management System](https://github.com/BhindiMaharshi12) — *Full Hotel Operations Platform*
+A role-based platform to manage, track, and recycle electronic waste responsibly — with Python-powered analytics and a full admin dashboard.
 
-> *End-to-end hotel management covering bookings, rooms, staff & billing.*
+![PHP](https://img.shields.io/badge/PHP-1a0033?style=flat-square&logo=php&logoColor=aa00ff)
+![Python](https://img.shields.io/badge/Python-1a0033?style=flat-square&logo=python&logoColor=7c4dff)
+![MySQL](https://img.shields.io/badge/MySQL-1a0033?style=flat-square&logo=mysql&logoColor=e040fb)
 
-![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=BF80FF)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=00F0FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=flat-square&logo=bootstrap&logoColor=BF80FF)
+- 🔐 Role-based access — User / Admin / Collector
+- 📦 E-waste pickup request submission
+- 🗺️ Real-time pickup status tracking
+- 📊 Admin dashboard & recycling analytics
+- 🐍 Python data analysis & impact reports
 
-- 🏠 Room booking & availability management
-- 👤 Guest registration & profile system
-- 💳 Billing & invoice generation
-- 👨‍💼 Staff & admin role management
-- 📊 Occupancy & revenue analytics dashboard
+</td>
+</tr>
 
----
+<tr><td colspan="2"><br/></td></tr>
 
-### 🔍 [Lost & Found App](https://github.com/BhindiMaharshi12) — *Community Lost & Found Portal*
+<tr>
+<td width="50%" valign="top">
 
-> *A platform connecting people who've lost items with those who found them.*
+### 🏨 Hotel Management System
+> *Full Hotel Operations Platform*
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=BF80FF)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=00F0FF)
+End-to-end hotel management covering bookings, guest profiles, staff roles, and revenue analytics — all in one system.
 
-- 📢 Post lost or found items with photos & description
+![PHP](https://img.shields.io/badge/PHP-1a0033?style=flat-square&logo=php&logoColor=aa00ff)
+![MySQL](https://img.shields.io/badge/MySQL-1a0033?style=flat-square&logo=mysql&logoColor=e040fb)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1a0033?style=flat-square&logo=bootstrap&logoColor=7c4dff)
+
+- 🏠 Room booking & live availability
+- 👤 Guest registration & profile management
+- 💳 Automated billing & invoice generation
+- 👨‍💼 Multi-role staff & admin control
+- 📊 Occupancy & revenue analytics
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Lost & Found App
+> *Community Item Recovery Portal*
+
+A community-driven platform connecting people who've lost items with those who found them — with smart matching and notifications.
+
+![JS](https://img.shields.io/badge/JavaScript-1a0033?style=flat-square&logo=javascript&logoColor=ffd600)
+![PHP](https://img.shields.io/badge/PHP-1a0033?style=flat-square&logo=php&logoColor=aa00ff)
+![MySQL](https://img.shields.io/badge/MySQL-1a0033?style=flat-square&logo=mysql&logoColor=e040fb)
+
+- 📢 Post lost or found items with photos
 - 🔎 Smart search & category filtering
-- 🔔 Match notifications when a lost item is reported found
-- 👤 User authentication & item claim system
+- 🔔 Notifications on item match
+- 👤 User authentication & claim system
 
----
+</td>
+</tr>
 
-### 🏏 [Cricket Match Score Predictor](https://github.com/BhindiMaharshi12) — *AI-Powered Match Prediction*
+<tr><td colspan="2"><br/></td></tr>
 
-> *An ML model that predicts cricket match outcomes using historical data.*
+<tr>
+<td width="50%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00F0FF)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000?style=flat-square&logo=scikit-learn&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=flat-square&logo=pandas&logoColor=150458)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=flat-square&logo=python&logoColor=00F0FF)
+### 🏏 Cricket Score Predictor
+> *AI-Powered Match Prediction Model*
 
-- 🏏 Predicts match scores based on historical match data
-- 📊 Data preprocessing & feature engineering with Pandas
-- 🤖 ML model trained using Scikit-Learn
-- 📈 Visualized predictions & accuracy with Matplotlib
+A machine learning model that predicts cricket match outcomes using historical data — built with Python and Scikit-Learn.
 
----
+![Python](https://img.shields.io/badge/Python-1a0033?style=flat-square&logo=python&logoColor=7c4dff)
+![Scikit](https://img.shields.io/badge/Scikit--Learn-1a0033?style=flat-square&logo=scikit-learn&logoColor=ffd600)
+![Pandas](https://img.shields.io/badge/Pandas-1a0033?style=flat-square&logo=pandas&logoColor=e040fb)
+
+- 🏏 Score prediction from historical match data
+- 📊 Feature engineering & preprocessing
+- 🤖 ML model training via Scikit-Learn
+- 📈 Accuracy visualization with Matplotlib
+
+</td>
+<td width="50%" valign="top">
+<br/><br/><br/><br/>
+<div align="center">
+
+![](https://img.shields.io/badge/More%20Projects%20Coming%20Soon-1a0033?style=for-the-badge&labelColor=0d001a&color=e040fb)
+
+</div>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 📊 &nbsp; GITHUB STATS
+
+<br/>
 
 <div align="center">
 
-## `> GITHUB STATS 📊`
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=BhindiMaharshi12&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00f0ff&icon_color=bf80ff&text_color=ffffff&ring_color=00f0ff" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhindiMaharshi12&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=00f0ff&text_color=ffffff" height="170" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhindiMaharshi12&theme=highcontrast&hide_border=true&background=00000000&ring=00f0ff&fire=bf80ff&currStreakLabel=00f0ff&sideLabels=ffffff&dates=888888" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api?username=BhindiMaharshi12&show_icons=true&hide_border=true&bg_color=0d001a&title_color=e040fb&icon_color=7c4dff&text_color=b39ddb&border_radius=12" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhindiMaharshi12&layout=compact&hide_border=true&bg_color=0d001a&title_color=e040fb&text_color=b39ddb&border_radius=12" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=BhindiMaharshi12&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhindiMaharshi12&hide_border=true&background=0d001a&ring=e040fb&fire=aa00ff&currStreakLabel=e040fb&sideLabels=b39ddb&dates=665577&border_radius=12" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=BhindiMaharshi12&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="85%"/>
 
 </div>
 
 <br/>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 🌐 &nbsp; CONNECT WITH ME
+
+<br/>
 
 <div align="center">
 
-## `> CONNECT WITH ME 🌐`
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/BhindiMaharshi12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/maharshi-bhindi-83608231b)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=BF80FF)](mailto:maharshi@gmail.com)
-
-<br/>
-
-```
-◈ Open to collaborations, internships & cool projects ◈
-```
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=BhindiMaharshi12&label=Profile+Views&color=00f0ff&style=flat-square" />
+[![GitHub](https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=e040fb)](https://github.com/BhindiMaharshi12)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d001a?style=for-the-badge&logo=linkedin&logoColor=7c4dff)](https://www.linkedin.com/in/maharshi-bhindi-83608231b)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-1a0033?style=for-the-badge&logo=gmail&logoColor=aa00ff)](mailto:bhindimaharshi82@gmail.com)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%" />
+> 💬 &nbsp; *Open to collaborations, internships & building cool things together*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=BhindiMaharshi12&label=PROFILE+VIEWS&color=e040fb&style=for-the-badge&labelColor=1a0033"/>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:2d0057,100:e040fb&height=130&section=footer&animation=fadeIn" width="100%"/>

@@ -1,7 +1,11 @@
 [README.md](https://github.com/user-attachments/files/26187151/README.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Maharshi&fontSize=72&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Clean%20Architecture&descAlignY=58&descSize=17&fontColor=00f0ff&animation=fadeIn&stroke=00f0ff&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:121212&height=220&section=header&text=Maharshi&fontSize=72&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&center=true&vCenter=true&lines=Full-Stack+Developer;AI+Enthusiast;Clean+Architecture+Lover;Building+Scalable+Apps" />
+</p>
 
 </div>
 
@@ -29,8 +33,7 @@ const Maharshi = {
   focus       : ["Web Applications", "AI-Driven Systems", "Clean Architecture"],
   stack       : ["JavaScript", "Java", "JSP/Servlets", "PHP", "Python", "MySQL"],
   currentlyOn : ["LuxDrive Motors — Luxury Car Platform", "AI/ML Fundamentals"],
-  philosophy  : "Build systems that scale. Create solutions that matter.",
-  funFact     : "I design UIs in my sleep. Dark themes only. 🌑"
+  
 };
 ```
 
@@ -215,7 +218,7 @@ const Maharshi = {
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/BhindiMaharshi12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://linkedin.com/in/maharshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/maharshi-bhindi-83608231b)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=BF80FF)](mailto:maharshi@gmail.com)
 
 <br/>

@@ -1,12 +1,11 @@
 [README.md](https://github.com/user-attachments/files/26187151/README.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:121212&height=220&section=header&text=Maharshi&fontSize=72&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=220&section=header&text=Maharshi&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&center=true&vCenter=true&lines=Full-Stack+Developer;AI+Enthusiast;Clean+Architecture+Lover;Building+Scalable+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&center=true&vCenter=true&lines=Building+Cool+Projects;Turning+Ideas+into+Code;Learning+Something+New+Everyday;Creating+Impact+with+Tech" />
 </p>
-
 </div>
 
 <div align="center">

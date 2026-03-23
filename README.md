@@ -28,8 +28,7 @@ const Maharshi = {
   focus       : ["Web Applications", "AI-Driven Systems", "Clean Architecture"],
   stack       : ["JavaScript", "Java", "JSP/Servlets", "PHP", "Python", "MySQL"],
   currentlyOn : ["LuxDrive Motors — Luxury Car Platform", "AI/ML Fundamentals"],
-  philosophy  : "Build systems that scale. Create solutions that matter.",
-  funFact     : "I design UIs in my sleep. Dark themes only. 🌑"
+
 };
 ```
 
@@ -131,7 +130,7 @@ const Maharshi = {
 - 🗺️ Track pickup status in real-time
 - 📊 Admin dashboard — manage requests, users & recycling stats
 - 🐍 Python scripts for data analysis & recycling impact reports
-- 📧 Email notifications for pickup confirmation & updates
+
 - 📈 Analytics — total waste collected, categories & environmental impact
 
 ---

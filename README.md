@@ -1,8 +1,8 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Maharshi&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,40:1a0033,80:2d0057,100:1a0033&height=220&section=header&text=Maharshi&fontSize=75&fontColor=e040fb&fontAlignY=40&desc=Full-Stack+Developer+%7C+UI+Craftsman+%7C+AI+Explorer&descSize=17&descAlignY=62&descFontColor=b39ddb&animation=fadeIn" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&lines=Full-Stack+Developer;Building+Projects;Always+Learning;Open+to+Work" />
+</p>
 
 <div align="center">
 <br/>

@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,60:0a192f,100:00ffe7&height=230&section=header&text=MAHARSHI&fontSize=78&fontAlignY=36&fontColor=00ffe7&desc=Full-Stack%20Dev%20%7C%20UI%20Craftsman%20%7C%20AI%20Explorer&descAlignY=58&descSize=18&animation=fadeIn&stroke=00ffe7&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a0033,50:0d001a,100:001a33&height=220&section=header&text=MAHARSHI&fontSize=80&fontColor=e040fb&fontAlignY=55&desc=Full-Stack+Developer+%7C+UI+Craftsman+%7C+AI+Explorer&descSize=17&descAlignY=75&descFontColor=7c4dff&animation=blinking&stroke=e040fb&strokeWidth=1.5" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=21&duration=3000&pause=800&color=00FFE7&background=00000000&center=true&vCenter=true&width=750&lines=%3E+Turning+ideas+into+real-world+products+%F0%9F%9A%80;%3E+Dark+themes+only.+Always.+%F0%9F%8C%91;%3E+Clean+Code+%7C+Bold+UI+%7C+Real+Impact+%E2%9A%A1;%3E+B.Tech+IT+%E2%80%94+Atmiya+University%2C+Rajkot)](https://github.com/BhindiMaharshi12)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3500&pause=900&color=E040FB&background=00000000&center=true&vCenter=true&width=800&lines=Turning+ideas+into+real-world+products+%F0%9F%9A%80;Dark+themes.+Glassmorphism.+Neon+accents.+%F0%9F%8C%91;Clean+Architecture+%7C+Bold+UI+%7C+Real+Impact;B.Tech+IT+%E2%80%94+Atmiya+University%2C+Rajkot+%F0%9F%8E%93)](https://github.com/BhindiMaharshi12)
 
 </div>
 
@@ -14,266 +14,290 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/STATUS-Open%20to%20Collaborate-00ffe7?style=for-the-badge&labelColor=0d0d0d&color=00ffe7)
+![](https://img.shields.io/badge/%E2%9A%A1_STATUS-Open%20to%20Collaborate-e040fb?style=for-the-badge&labelColor=1a0033)
 &nbsp;
-![](https://img.shields.io/badge/FOCUS-Web%20%7C%20AI%20%7C%20UI-bf00ff?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/%F0%9F%8E%AF_FOCUS-Web%20%7C%20AI%20%7C%20UI-7c4dff?style=for-the-badge&labelColor=0d001a)
 &nbsp;
-![](https://img.shields.io/badge/LOCATION-Rajkot%2C%20India-ff6b35?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/%F0%9F%93%8D_LOCATION-Rajkot%2C%20India-aa00ff?style=for-the-badge&labelColor=001a33)
 
 </div>
 
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🧬 &nbsp; ABOUT ME
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp; `// WHO AM I?`
+<br/>
 
-<table>
+<div align="center">
+
+| | |
+|:---|:---|
+| 🎓 **University** | Atmiya University, Rajkot — B.Tech IT |
+| 📅 **Semester** | Sem 4 · Division A · Roll No. 64 |
+| 📍 **Location** | Rajkot → Ahmedabad, Gujarat, India |
+| 🛠️ **Role** | Full-Stack Developer |
+| 🎨 **Craft** | Dark UI · Glassmorphism · Neon Themes |
+| 🤖 **Exploring** | AI/ML · Next.js · System Design |
+| 🏎️ **Building Now** | LuxDrive Motors — Luxury Car Platform |
+| 💡 **Philosophy** | Build systems that scale. Create UI that stuns. |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> *"I don't just write code — I craft experiences. Dark, bold, and built to last."*
+
+</div>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+---
+
+## ⚡ &nbsp; TECH ARSENAL
+
+<br/>
+
+<div align="center">
+
+**◈ &nbsp; LANGUAGES &nbsp; ◈**
+
+<br/>
+
+![Java](https://img.shields.io/badge/JAVA-1a0033?style=for-the-badge&logo=openjdk&logoColor=e040fb)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0d001a?style=for-the-badge&logo=javascript&logoColor=ffd600)
+![Python](https://img.shields.io/badge/PYTHON-001433?style=for-the-badge&logo=python&logoColor=7c4dff)
+![PHP](https://img.shields.io/badge/PHP-1a0033?style=for-the-badge&logo=php&logoColor=aa00ff)
+![HTML5](https://img.shields.io/badge/HTML5-0d001a?style=for-the-badge&logo=html5&logoColor=e040fb)
+![CSS3](https://img.shields.io/badge/CSS3-001433?style=for-the-badge&logo=css3&logoColor=7c4dff)
+
+<br/><br/>
+
+**◈ &nbsp; FRONTEND &nbsp; ◈**
+
+<br/>
+
+![jQuery](https://img.shields.io/badge/JQUERY-1a0033?style=for-the-badge&logo=jquery&logoColor=e040fb)
+![AJAX](https://img.shields.io/badge/AJAX-0d001a?style=for-the-badge&logo=javascript&logoColor=ffd600)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-001433?style=for-the-badge&logo=bootstrap&logoColor=7c4dff)
+
+<br/><br/>
+
+**◈ &nbsp; BACKEND &nbsp; ◈**
+
+<br/>
+
+![JSP](https://img.shields.io/badge/JSP%2FServlets-1a0033?style=for-the-badge&logo=openjdk&logoColor=e040fb)
+![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-0d001a?style=for-the-badge&logo=apachetomcat&logoColor=ffd600)
+![Flask](https://img.shields.io/badge/Flask-001433?style=for-the-badge&logo=flask&logoColor=aa00ff)
+![PHP Backend](https://img.shields.io/badge/PHP%20Backend-1a0033?style=for-the-badge&logo=php&logoColor=7c4dff)
+
+<br/><br/>
+
+**◈ &nbsp; DATABASE & TOOLS &nbsp; ◈**
+
+<br/>
+
+![MySQL](https://img.shields.io/badge/MySQL-1a0033?style=for-the-badge&logo=mysql&logoColor=e040fb)
+![Git](https://img.shields.io/badge/Git-0d001a?style=for-the-badge&logo=git&logoColor=ffd600)
+![GitHub](https://img.shields.io/badge/GitHub-001433?style=for-the-badge&logo=github&logoColor=aa00ff)
+![VS Code](https://img.shields.io/badge/VS%20Code-1a0033?style=for-the-badge&logo=visualstudiocode&logoColor=7c4dff)
+![XAMPP](https://img.shields.io/badge/XAMPP-0d001a?style=for-the-badge&logo=xampp&logoColor=e040fb)
+
+<br/><br/>
+
+**◈ &nbsp; AI / ML LIBRARIES &nbsp; ◈**
+
+<br/>
+
+![NumPy](https://img.shields.io/badge/NumPy-1a0033?style=for-the-badge&logo=numpy&logoColor=e040fb)
+![Pandas](https://img.shields.io/badge/Pandas-0d001a?style=for-the-badge&logo=pandas&logoColor=7c4dff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-001433?style=for-the-badge&logo=python&logoColor=aa00ff)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1a0033?style=for-the-badge&logo=scikit-learn&logoColor=ffd600)
+
+</div>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+---
+
+## 🚀 &nbsp; FEATURED PROJECTS
+
+<br/>
+
+<table width="100%">
 <tr>
-<td>
+<td width="50%" valign="top">
 
-```typescript
-const Maharshi = {
+### ⚡ LuxDrive Motors
+**Luxury Car Buy/Sell Platform**
 
-  name        : "Maharshi",
-  degree      : "B.Tech — Information Technology",
-  university  : "Atmiya University, Rajkot",
-  semester    : "Semester 4 · Division A · Roll No. 64",
-  location    : "Rajkot → Ahmedabad, Gujarat, India  📍",
+> Dark glassmorphism UI · Neon retro-futuristic design · Modeled after Big Boy Toyz
 
-  roles       : [
-    "Full-Stack Web Developer  🛠️",
-    "Dark UI Craftsman  🌑",
-    "AI/ML Explorer  🤖",
-  ],
+![JS](https://img.shields.io/badge/JS-1a0033?style=flat-square&logo=javascript&logoColor=ffd600)
+![HTML](https://img.shields.io/badge/HTML-1a0033?style=flat-square&logo=html5&logoColor=e040fb)
+![CSS](https://img.shields.io/badge/CSS-1a0033?style=flat-square&logo=css3&logoColor=7c4dff)
 
-  techStack   : {
-    languages : ["Java", "JavaScript", "Python", "PHP"],
-    frontend  : ["HTML5", "CSS3", "jQuery", "Bootstrap", "AJAX"],
-    backend   : ["JSP/Servlets", "Apache Tomcat", "Flask", "PHP"],
-    database  : ["MySQL"],
-    tools     : ["Git", "GitHub", "VS Code", "XAMPP"],
-  },
+- 🏎️ Lamborghini, Porsche, Mercedes-AMG listings
+- 📸 Sell form with photo upload
+- 🗺️ Showrooms — Rajkot · Ahmedabad · Dubai
+- 🤖 Live AI chatbot for buyers
+- 💾 localStorage data persistence
 
-  currentlyBuilding : "LuxDrive Motors — Luxury Car Platform  🏎️",
-  currentlyLearning : ["Next.js", "AI/ML", "System Design"],
+</td>
+<td width="50%" valign="top">
 
-  designPhilosophy  : "Dark themes. Glassmorphism. Neon accents.",
-  lifePhilosophy    : "Build systems that scale. Create UI that stuns.",
+### ♻️ E-Waste Management System
+**Smart E-Waste Recycling Platform**
 
-  funFact     : "I redesign UIs in my sleep. Dark mode is the only mode.",
+> Role-based system for managing electronic waste pickup, tracking & analytics
 
-};
-```
+![PHP](https://img.shields.io/badge/PHP-1a0033?style=flat-square&logo=php&logoColor=aa00ff)
+![Python](https://img.shields.io/badge/Python-1a0033?style=flat-square&logo=python&logoColor=7c4dff)
+![MySQL](https://img.shields.io/badge/MySQL-1a0033?style=flat-square&logo=mysql&logoColor=e040fb)
+
+- 🔐 Role-based login — User / Admin / Collector
+- 📦 Submit e-waste pickup requests
+- 🗺️ Real-time pickup status tracking
+- 📊 Admin dashboard & analytics
+- 🐍 Python data analysis & impact reports
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏨 Hotel Management System
+**Full Hotel Operations Platform**
+
+> Complete hotel ops — bookings, rooms, billing & staff management
+
+![PHP](https://img.shields.io/badge/PHP-1a0033?style=flat-square&logo=php&logoColor=aa00ff)
+![MySQL](https://img.shields.io/badge/MySQL-1a0033?style=flat-square&logo=mysql&logoColor=e040fb)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1a0033?style=flat-square&logo=bootstrap&logoColor=7c4dff)
+
+- 🏠 Room booking & live availability
+- 👤 Guest registration & profiles
+- 💳 Automated billing & invoices
+- 👨‍💼 Multi-role staff management
+- 📊 Occupancy & revenue analytics
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Lost & Found App
+**Community Item Recovery Portal**
+
+> Connecting people who lost items with those who found them
+
+![JS](https://img.shields.io/badge/JS-1a0033?style=flat-square&logo=javascript&logoColor=ffd600)
+![PHP](https://img.shields.io/badge/PHP-1a0033?style=flat-square&logo=php&logoColor=aa00ff)
+![MySQL](https://img.shields.io/badge/MySQL-1a0033?style=flat-square&logo=mysql&logoColor=e040fb)
+
+- 📢 Post lost/found items with photos
+- 🔎 Smart search & filtering
+- 🔔 Match notifications
+- 👤 User auth & claim system
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏏 Cricket Score Predictor
+**AI-Powered ML Prediction Model**
+
+> Predicts cricket match outcomes using historical data & machine learning
+
+![Python](https://img.shields.io/badge/Python-1a0033?style=flat-square&logo=python&logoColor=7c4dff)
+![Scikit](https://img.shields.io/badge/Scikit--Learn-1a0033?style=flat-square&logo=scikit-learn&logoColor=ffd600)
+![Pandas](https://img.shields.io/badge/Pandas-1a0033?style=flat-square&logo=pandas&logoColor=e040fb)
+
+- 🏏 Score prediction from historical data
+- 📊 Feature engineering with Pandas
+- 🤖 ML model via Scikit-Learn
+- 📈 Accuracy charts with Matplotlib
+
+</td>
+<td width="50%" valign="top">
+
+<br/><br/><br/>
+
+<div align="center">
+
+*More projects coming soon...*
+
+![](https://img.shields.io/badge/🔨_Always-Building-e040fb?style=for-the-badge&labelColor=1a0033)
+
+</div>
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ---
 
-## ⚡ `// TECH ARSENAL`
+## 📊 &nbsp; GITHUB STATS
+
+<br/>
 
 <div align="center">
 
-### ◈ Languages
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=BhindiMaharshi12&show_icons=true&hide_border=true&bg_color=0d001a&title_color=e040fb&icon_color=7c4dff&text_color=aa88cc&ring_color=e040fb&border_radius=12" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhindiMaharshi12&layout=compact&hide_border=true&bg_color=0d001a&title_color=e040fb&text_color=aa88cc&border_radius=12" height="175"/>
 
-![Java](https://img.shields.io/badge/Java-0a0a0f?style=for-the-badge&logo=openjdk&logoColor=00ffe7)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=00ffe7)
-![PHP](https://img.shields.io/badge/PHP-0a0a0f?style=for-the-badge&logo=php&logoColor=bf00ff)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0f?style=for-the-badge&logo=html5&logoColor=e34f26)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0f?style=for-the-badge&logo=css3&logoColor=1572b6)
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhindiMaharshi12&hide_border=true&background=0d001a&ring=e040fb&fire=aa00ff&currStreakLabel=e040fb&sideLabels=aa88cc&dates=665577&stroke=e040fb30&border_radius=12" width="60%"/>
 
-### ◈ Frontend
-<br/>
+<br/><br/>
 
-![jQuery](https://img.shields.io/badge/jQuery-0a0a0f?style=for-the-badge&logo=jquery&logoColor=00ffe7)
-![AJAX](https://img.shields.io/badge/AJAX-0a0a0f?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0a0a0f?style=for-the-badge&logo=bootstrap&logoColor=bf00ff)
-
-<br/>
-
-### ◈ Backend
-<br/>
-
-![JSP/Servlets](https://img.shields.io/badge/JSP%20%2F%20Servlets-0a0a0f?style=for-the-badge&logo=openjdk&logoColor=00ffe7)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-0a0a0f?style=for-the-badge&logo=apachetomcat&logoColor=f8dc75)
-![Flask](https://img.shields.io/badge/Flask-0a0a0f?style=for-the-badge&logo=flask&logoColor=ffffff)
-![PHP Backend](https://img.shields.io/badge/PHP%20Backend-0a0a0f?style=for-the-badge&logo=php&logoColor=bf00ff)
-
-<br/>
-
-### ◈ Database & DevTools
-<br/>
-
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0f?style=for-the-badge&logo=mysql&logoColor=00ffe7)
-![Git](https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=f05032)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS%20Code-0a0a0f?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
-![XAMPP](https://img.shields.io/badge/XAMPP-0a0a0f?style=for-the-badge&logo=xampp&logoColor=fb7a24)
-
-<br/>
-
-### ◈ Python / AI-ML Libraries
-<br/>
-
-![NumPy](https://img.shields.io/badge/NumPy-0a0a0f?style=for-the-badge&logo=numpy&logoColor=00ffe7)
-![Pandas](https://img.shields.io/badge/Pandas-0a0a0f?style=for-the-badge&logo=pandas&logoColor=bf00ff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0a0f?style=for-the-badge&logo=python&logoColor=ff6b35)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0a0a0f?style=for-the-badge&logo=scikit-learn&logoColor=f7931e)
+<img src="https://github-profile-trophy.vercel.app/?username=BhindiMaharshi12&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="85%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🛠️ `// FEATURED PROJECTS`
-
 <br/>
 
-### ⚡ [LuxDrive Motors](https://github.com/BhindiMaharshi12) &nbsp;—&nbsp; *Luxury Car Buy/Sell Platform*
-
-> 🌑 *A premium dark-themed luxury car marketplace. Glassmorphism UI · Neon accents · Modeled after Big Boy Toyz.*
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=f7df1e)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0f?style=flat-square&logo=html5&logoColor=e34f26)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0f?style=flat-square&logo=css3&logoColor=1572b6)
-
-| Feature | Detail |
-|:---|:---|
-| 🏎️ **Car Showroom** | Pre-seeded Lamborghini, Porsche, Mercedes-AMG listings |
-| 📸 **Sell Form** | Photo upload + localStorage-based data persistence |
-| 🗺️ **Showroom Locations** | Rajkot · Ahmedabad · Dubai |
-| 🤖 **AI Chatbot** | Integrated live assistant for buyer queries |
-| 🌑 **UI Theme** | Dark glassmorphism + neon retro-futuristic design |
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ---
 
-### ♻️ [E-Waste Management System](https://github.com/BhindiMaharshi12) &nbsp;—&nbsp; *Smart E-Waste Platform*
-
-> *A smart platform to manage, track, and recycle electronic waste responsibly.*
-
-![PHP](https://img.shields.io/badge/PHP-0a0a0f?style=flat-square&logo=php&logoColor=bf00ff)
-![Python](https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=00ffe7)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0f?style=flat-square&logo=mysql&logoColor=00ffe7)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=f7df1e)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0a0a0f?style=flat-square&logo=bootstrap&logoColor=bf00ff)
-
-- 🔐 Role-based login — User / Admin / Collector
-- 📦 Submit pickup requests with item details & live location
-- 🗺️ Real-time pickup status tracking
-- 📊 Admin dashboard — manage users, requests & recycling stats
-- 🐍 Python scripts for data analysis & impact reports
-- 📧 Email notifications for confirmations & updates
-- 📈 Analytics — total waste, categories & environmental impact
-
----
-
-### 🏨 [Hotel Management System](https://github.com/BhindiMaharshi12) &nbsp;—&nbsp; *Full Hotel Ops Platform*
-
-> *End-to-end hotel management — bookings, rooms, staff & billing.*
-
-![PHP](https://img.shields.io/badge/PHP-0a0a0f?style=flat-square&logo=php&logoColor=bf00ff)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0f?style=flat-square&logo=mysql&logoColor=00ffe7)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=f7df1e)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0a0a0f?style=flat-square&logo=bootstrap&logoColor=bf00ff)
-
-- 🏠 Room booking & live availability management
-- 👤 Guest registration & profile system
-- 💳 Automated billing & invoice generation
-- 👨‍💼 Multi-role staff & admin management
-- 📊 Occupancy & revenue analytics dashboard
-
----
-
-### 🔍 [Lost & Found App](https://github.com/BhindiMaharshi12) &nbsp;—&nbsp; *Community Portal*
-
-> *Connecting people who've lost items with those who found them.*
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=f7df1e)
-![PHP](https://img.shields.io/badge/PHP-0a0a0f?style=flat-square&logo=php&logoColor=bf00ff)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0f?style=flat-square&logo=mysql&logoColor=00ffe7)
-
-- 📢 Post lost or found items with photos & description
-- 🔎 Smart search & category filtering
-- 🔔 Match notifications when item is reported found
-- 👤 User auth & item claim system
-
----
-
-### 🏏 [Cricket Score Predictor](https://github.com/BhindiMaharshi12) &nbsp;—&nbsp; *AI-Powered ML Model*
-
-> *Predicts cricket match outcomes using historical match data & machine learning.*
-
-![Python](https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=00ffe7)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0a0a0f?style=flat-square&logo=scikit-learn&logoColor=f7931e)
-![Pandas](https://img.shields.io/badge/Pandas-0a0a0f?style=flat-square&logo=pandas&logoColor=bf00ff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0a0f?style=flat-square&logo=python&logoColor=ff6b35)
-
-- 🏏 Score prediction based on historical match data
-- 📊 Feature engineering & data preprocessing with Pandas
-- 🤖 ML model training using Scikit-Learn
-- 📈 Accuracy visualization with Matplotlib
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 📊 `// GITHUB STATS`
+## 🌐 &nbsp; CONNECT WITH ME
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BhindiMaharshi12&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0f&title_color=00ffe7&icon_color=bf00ff&text_color=c0c0c0&border_radius=10" height="175"/>
+[![GitHub](https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=e040fb&labelColor=0d001a)](https://github.com/BhindiMaharshi12)
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhindiMaharshi12&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0f&title_color=00ffe7&text_color=c0c0c0&border_radius=10" height="175"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d001a?style=for-the-badge&logo=linkedin&logoColor=7c4dff&labelColor=1a0033)](https://linkedin.com/in/maharshi)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-001433?style=for-the-badge&logo=gmail&logoColor=aa00ff&labelColor=0d001a)](mailto:maharshi@gmail.com)
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhindiMaharshi12&theme=dark&hide_border=true&background=0a0a0f&ring=00ffe7&fire=bf00ff&currStreakLabel=00ffe7&sideLabels=c0c0c0&dates=666666&stroke=00ffe720" width="58%"/>
+![](https://img.shields.io/badge/%E2%97%88%20Open%20to%20collabs%20%C2%B7%20internships%20%C2%B7%20building%20cool%20things%20together%20%E2%97%88-1a0033?style=for-the-badge&labelColor=0d001a&color=e040fb)
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=BhindiMaharshi12&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="85%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🌐 `// CONNECT WITH ME`
-
-<br/>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=00ffe7)](https://github.com/BhindiMaharshi12)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00ffe7)](https://linkedin.com/in/maharshi)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-0a0a0f?style=for-the-badge&logo=gmail&logoColor=bf00ff)](mailto:maharshi@gmail.com)
-
-<br/><br/>
-
-```
-◈  Open to collabs · internships · and building cool things together  ◈
-```
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=BhindiMaharshi12&label=PROFILE+VIEWS&color=00ffe7&style=for-the-badge&labelColor=0a0a0f" />
+<img src="https://komarev.com/ghpvc/?username=BhindiMaharshi12&label=PROFILE+VIEWS&color=e040fb&style=for-the-badge&labelColor=1a0033"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe7,40:bf00ff,70:0a192f,100:0a0a0f&height=130&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,40:1a0033,70:aa00ff,100:e040fb&height=130&section=footer&animation=fadeIn" width="100%"/>

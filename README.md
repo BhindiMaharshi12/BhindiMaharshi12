@@ -28,7 +28,6 @@ B.Tech Student from India focused on building practical web and machine learning
 |--------|-------------|------|
 | Smart Waste & Recycling Identifier | Detects recyclable and organic waste using image classification and suggests correct bin | Python, ML, Flask |
 | LuxDrive Motors | Luxury car buy/sell platform with chatbot and dark UI | HTML, CSS, JavaScript |
-
 | Hotel Management System | Room booking, billing and admin dashboard | PHP, MySQL |
 | Lost & Found App | Post and search lost or found items | JavaScript, PHP, MySQL |
 | Cricket Score Predictor | Match prediction using machine learning | Python, Scikit-learn |
